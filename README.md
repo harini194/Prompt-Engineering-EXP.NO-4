@@ -40,5 +40,5 @@ Everyday Functioning Prompts:
   “How is encryption used in daily life when sending WhatsApp messages?”
 
   OUTPUT:
-
+   [PE.Ex 4 (1).pdf](https://github.com/user-attachments/files/26043555/PE.Ex.4.1.pdf)
   RESULT:
